@@ -34,6 +34,12 @@ function CartTotal({ value }) {
 								<span className="text-title">total: </span>
 								<strong>${totalCart}</strong>
 							</h5>
+
+							<img
+								src="https://i.ibb.co/8zznFzk/express-checkout-hero-sg.png"
+								alt="checkout with paypal"
+								className="img-fluid w-50"
+							/>
 						</div>
 					</div>
 				</div>
